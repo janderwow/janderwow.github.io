@@ -19,6 +19,41 @@
             </ul>
         </div>
     </nav>
+    <nav id="hamburguer-nav">
+        <div class="logo">JanderWoW</div>
+        <div class="hamburguer-menu">
+            <div class="hamburguer-icon" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="#about" onclick="toggleMenu()">About</a></li>
+                <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="#contact" onclick="toggleMenu()">Contacts</a></li>
+            </div>
+        </div>
+    </nav>
+    <section id="profile">
+        <div class="section__pic-conteiner">
+            <img src="./assets/profile-pic.png" alt="JanderWoW Profile Picture">
+        </div>
+        <div class="section__text">
+            <p class="section__text__p1">
+                Hello I'm
+                <h1 class="title"> JanderWoW</h1>
+                <p class="section__text__p2">Frontend Developer</p>
+            </p>
+            <div class="btn-conteiner">
+                <button class="btn btn-color-2"
+                 onclick="window.open('./assets/resume-example.pdf')"
+                 >
+                 Download CV
+                </button>
+            </div>
+        </div>
+    </section>
     <script src="script.js"></script>
 </body>
 </html>
