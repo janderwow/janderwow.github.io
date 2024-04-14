@@ -12,9 +12,9 @@
 
 ### Pré-requisitos
 
-Before you begin, ensure you have met the following requirements:
+Instalação do Git:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://git-scm.com/downloads "Download Git").
 
 ### Executar local
 
