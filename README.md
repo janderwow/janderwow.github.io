@@ -4,7 +4,7 @@
 <div align="center">
 <h1>Portfólio Pessoal</h1>
 
-<p>Website portfólio pessoal responsivo para todos dispositivos, construído utilizando HTML, CSS, JavaScript</p>
+<p>Website portfólio pessoal responsivo para todos dispositivos, construído utilizando HTML, CSS e JavaScript</p>
 
 <a href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
 
@@ -12,13 +12,13 @@
 
 ### Pré-requisitos
 
-Instalação do Git:
+Git instalado:
 
 * [Git](https://git-scm.com/downloads "Download Git").
 
 ### Executar local
 
-Para executar o projeto **jack-portfolio** localmente, execute os seguintes comandos:
+Para executar o projeto localmente, execute os seguintes comandos no git bash:
 
 Linux and macOS:
 
