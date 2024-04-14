@@ -38,5 +38,11 @@ Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/
 ### Licença
 
 Este projeto é **livre para uso** e não contém licença.
+
+### Sobre
+O repositório foi criado com base em:
+
+[Responsive Portfolio Website From Scratch](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=6172s).
+[jack-portfolio](https://github.com/codewithsadee/jack-portfolio)
 </body>
 </html>
