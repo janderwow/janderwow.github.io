@@ -8,9 +8,9 @@
 
 <a href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
 
+</div>
 Licença
 
 Este projeto é **livre para uso** e não contém licença.
-</div>
 </body>
 </html>
