@@ -16,7 +16,7 @@ Git instalado:
 
 * [Git](https://git-scm.com/downloads "Download Git").
 
-### Executar local
+### Executar localmente
 
 Para executar o projeto localmente, execute os seguintes comandos no git bash:
 
@@ -32,7 +32,7 @@ Windows:
 git clone https://github.com/janderwow/janderwow.github.io.git
 ```
 
-### Contact
+### Contato
 
 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/janderwow/).
 ### Licença
