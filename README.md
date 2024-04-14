@@ -5,7 +5,7 @@
 
 <p align="center">Website portfólio pessoal responsivo para todos dispositivos, construído utilizando HTML, CSS, JavaScript</p>
 
-<a href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
+<a align="center" href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
 
 Licença
 
