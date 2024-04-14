@@ -7,5 +7,8 @@
 
 <a href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
 
+Licença
+
+Este projeto é **livre para uso** e não contém licença.
 </body>
 </html>
