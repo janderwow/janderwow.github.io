@@ -5,7 +5,7 @@
 
 <p align="center">Website portfólio pessoal responsivo para todos dispositivos, construído utilizando HTML, CSS, JavaScript</p>
 
-<a href="https://github.com/janderwow/janderwow.github.io/tree/staging">Live Demo</a>
+<a href="https://portfoliojandermelo.netlify.app/">Live Demo</a>
 
 </body>
 </html>
